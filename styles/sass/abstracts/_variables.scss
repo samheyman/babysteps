@@ -1,0 +1,22 @@
+// -----------------------------------------------------------------------------
+// This file contains all application-wide Sass variables.
+// -----------------------------------------------------------------------------
+
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700');
+
+/// Regular font family
+/// @type List
+$font-stack: Poppins, sans-serif;
+
+/// Main color
+/// @type Color
+$primary-color: rgb(127, 135, 158);
+
+/// Secondary color
+/// @type Color
+$secondary-color: rgb(94, 0, 240);
+
+/// Background color
+/// @type Color
+$background-color: rgb(250, 250, 250);
+
