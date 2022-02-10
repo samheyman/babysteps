@@ -13,6 +13,6 @@
   "license": "ISC",
   "devDependencies": {
     "lite-server": "^2.5.3",
-    "node-sass": "^4.12.0"
+    "node-sass": "^7.0.0"
   }
 }
